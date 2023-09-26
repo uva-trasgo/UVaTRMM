@@ -58,14 +58,10 @@ MAPPING=$(SRC_PATH)mm_mapping.c
 
 MAIN_AUXILIAR=$(COMMON) $(MAPPING) $(BROADCAST) $(SARTECO) $(P2P) $(PIPELINE) $(PRODUCT) $(COMMS) 
 
-todo: todo_aux todo
-
 todo_aux: print_mat checks
-todo: todo_sequential todo_multithreaded
-
 todo_sequential: sequential 
-
 todo_multithreaded: multithreaded 
+all: todo_aux todo_sequential todo_multithreaded
 
 clean: rm -f $(OBJS)
 
