@@ -21,7 +21,14 @@ Dependencies:
 * MKL (or equivalent, for TRMM and GEMM kernels)
 * MPI (remember to properly link the chosen library)
 
-  
+** Remember to create the directory "exec" for the binaries generated during compilation
+ 
+## Executing UVaTRMM
+
+```bash
+$ mpirun -np <NumberOfMPIProcesses> <MatrixDimension> <reg/balanced> <boxes/trapezoid>
+```
+
 ## For comparison against ScaLAPACK
 
 We provide ScaLAPACK GEMM and TRMM sample codes ready to be compiled and compared with our implementation.
