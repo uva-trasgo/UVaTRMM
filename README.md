@@ -26,7 +26,7 @@ Dependencies:
 ## Executing UVaTRMM
 
 ```bash
-$ mpirun -np <NumberOfMPIProcesses> <MatrixDimension> <reg/balanced> <boxes/trapezoid>
+$ mpirun -np <NumberOfMPIProcesses> exec/uvatrmm.x <MatrixDimension> <reg/balanced> <boxes/trapezoid>
 ```
 
 ## For comparison against ScaLAPACK
