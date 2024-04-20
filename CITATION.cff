@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you write a scientific paper describing research that makes substantive use of UVaTRMM , we would appreciate that you cite the following paper:"
+authors:
+- given-names: 'Inmaculada'
+  family-names: 'Santamaria-Valenzuela'
+  orcid: 'https://orcid.org/0000-0002-7497-8795'
+- given-names: 'Rocío'
+  family-names: 'Carratalá-Sáez'
+  orcid: 'https://orcid.org/0000-0001-8409-2421'
+- given-names: 'Yuri'
+  family-names: 'Torres'
+  orcid: 'https://orcid.org/0000-0002-3037-3567'
+- given-names: 'Diego R.'
+  family-names: 'Llanos'
+  orcid: 'https://orcid.org/0000-0001-6240-9109'
+- given-names: 'Arturo'
+  family-names: 'Gonzalez-Escribano'
+  orcid: 'https://orcid.org/0000-0003-1309-9321'
+title: "Performance improvement of the triangular matrix product in commodity clusters"
+url: 'https://github.com/uva-trasgo/UVaTRMM'
+preferred-citation:
+  type: article
+  authors:
+  - given-names: 'Inmaculada'
+    family-names: 'Santamaria-Valenzuela'
+    orcid: 'https://orcid.org/0000-0002-7497-8795'
+  - given-names: 'Rocío'
+    family-names: 'Carratalá-Sáez'
+    orcid: 'https://orcid.org/0000-0001-8409-2421'
+  - given-names: 'Yuri'
+    family-names: 'Torres'
+    orcid: 'https://orcid.org/0000-0002-3037-3567'
+  - given-names: 'Diego R.'
+    family-names: 'Llanos'
+    orcid: 'https://orcid.org/0000-0001-6240-9109'
+  - given-names: 'Arturo'
+    family-names: 'Gonzalez-Escribano'
+    orcid: 'https://orcid.org/0000-0003-1309-9321'
+  doi: '10.1007/s11227-024-06097-7'
+  journal: "The Journal of Supercomputing"
+  month: 4
+  title: "Performance improvement of the triangular matrix product in commodity clusters"
+  year: 2024
+  issn: "1573-0484"
+
