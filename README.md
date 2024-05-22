@@ -47,15 +47,16 @@ Please download the SLATE latest version from its repository (https://github.com
 
 If you write a scientific paper describing research that makes substantive use of UVaTRMM, we would appreciate that you cite the following paper:
 
-* On the improvement of the triangular matrix product in commodity clusters [Under review]
+* Performance improvement of the triangular matrix product in commodity clusters
 
 ```BibTeX
-	@Article{Carratala2023:UVaTRMM,
+	@article{Carratala2023_UVaTRMM,
 	author = "Santamaria-Valenzuela, Inmaculada and Carratal{\'a}-S{\'a}ez, Roc{\'i}o and Torres, Yuri and Llanos, Diego R. and Gonzalez-Escribano, Arturo",
-	title="On the improvement of the triangular matrix product in commodity clusters",
+	title="Performance improvement of the triangular matrix product in commodity clusters",
 	journal="The Journal of Supercomputing",
-	year="To appear (submitted in Sept. 2023)",
+	year="2024",
 	issn="1573-0484",
-	doi="XXXX",
+	doi="10.1007/s11227-024-06097-7",
 	}   
 ```
+Paper link: https://rdcu.be/dIFn2
